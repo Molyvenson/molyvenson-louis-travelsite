@@ -1,0 +1,23 @@
+body {
+  font: verdana;
+}
+
+
+nav {
+  background-color: #FFFFFF  ;
+
+}  
+
+.current {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-decoration-color: #DB7A4E;
+
+
+}
+
+.navigation-bar {
+  position: fixed;
+  width: 100%;
+
+}
